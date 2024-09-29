@@ -1,2 +1,5 @@
+dash>=2.11
 pandas
+plotly
 matplotlib
+notebook
